@@ -1,16 +1,16 @@
 # Markdown syntax guide
 
-## Headers
+GitLearning
 
-# This is a Heading h1
+General
 
-## This is a Heading h2
+This repository is used for Git practice
 
 ###### This is a Heading h6
 
 ## Emphasis
 
-_This text will be italic_  
+_nyt on jännää_  
 _This will also be italic_
 
 **This text will be bold**  
